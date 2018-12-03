@@ -1,5 +1,5 @@
 # get_next_line
-My diarrhea inducing get_next_line.
+My diarrhea inducing get_next_line for 42born2code.
 
 - Doesn't use libft 🙂
 - Handles multiple fd's but doesn't free their associated read buffer when it's empty, which would have been better.
