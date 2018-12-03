@@ -106,4 +106,4 @@ int		get_next_line(const int fd, char **line)
 }
 ```
 
-As pushed on vogsphere@vogsphere.42.fr:intra/2017/activities/get_next_line/cdittric
+As pushed on `vogsphere@vogsphere.42.fr:intra/2017/activities/get_next_line/cdittric`
